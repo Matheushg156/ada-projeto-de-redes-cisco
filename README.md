@@ -19,3 +19,8 @@ Equipamentos:
 
 Explicação:
 O objetivo final, é que um dos Desktops da Rede A, consiga colocar em seu navegador interno, o endereço do Site do Servidor WEB que está na REDE B, e a página possa ser carregada corretamente, validando deste modo o Roteamento entre as Redes, DNS e a camada da Aplicação funcionando corretamente.
+
+#### Segue abaixo uma imagem de como ficou o projeto no Cisco Packet Tracer:
+
+![Imagem do projeto](img/projeto-redes.png)
+
